@@ -9,6 +9,9 @@ This will definitely be a challenge and I use Discord on a typical day-to-day ba
 
 # Links: 
 NodeJS: https://nodejs.org/en/download/
+
 Visual Studio Code: https://code.visualstudio.com/
+
 Discord Developer Portal: https://discord.com/developers/docs/intro
+
 Discord API Permissions Calculator: https://discordapi.com/permissions.html
