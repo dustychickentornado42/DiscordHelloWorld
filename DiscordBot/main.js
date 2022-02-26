@@ -6,7 +6,7 @@ const prefix = '?'
 
 
 client.once('ready', ()=> {
-    console.log('Harambe is online');
+    console.log('King Julien is online');
 });
 
 client.on('message', message =>{
